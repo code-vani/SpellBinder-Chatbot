@@ -1,0 +1,18 @@
+Command,Intent,Description
+Lumos trivia,fetch_trivia,Request for trivia in a magical tone.
+Accio weather,fetch_weather,Request for current weather.
+Alohomora riddles,fetch_riddles,Opens the riddle section.
+Expecto Patronum advice,give_advice,Request motivational advice.
+Nox,end_conversation,Ends the conversation.
+Wingardium Leviosa fun,fetch_fun_fact,Fetches a fun fact.
+Lumos riddle,fetch_riddles,Request a magical riddle.
+Accio joke,fetch_joke,Fetches a magical joke.
+Accio prophecy,fetch_prophecy,Gives a daily prophecy.
+Confundo trivia,fetch_trivia,Requests trivia with confusion intent.
+Lumos knowledge,fetch_knowledge,Request for general knowledge.
+Accio history,fetch_history,Fetches a historical fact.
+Protego explanation,fetch_explanation,Provides an explanation for a topic.
+Stupefy question,fetch_question,Fetches a magical quiz question.
+Rictusempra cheer,cheer_user,Sends a cheerful message.\
+Engorgio details,fetch_details,Fetches detailed information.
+Accio movie,fetch_movie,Fetches a random magical movie.
