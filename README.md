@@ -17,19 +17,4 @@ SpellBinder integrates Python and Tkinter to create an engaging chatbot experien
 2. **Intelligent Matching**: Uses fuzzy matching to understand user input and provide accurate responses.
 3. **Graphical Interface**: Developed with Tkinter to make the experience visually engaging.
 
-## **How to Use**
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/yourgithubusername/SpellBinder-Chatbot.git
-cd SpellBinder-Chatbot
-```
-
-### Step 2: Run the Application
-Run the Python file using:
-
-```bash
-python spellbinder_chatbot.py
-```
-
-### Step 3: Interact with the Chatbot
 Start a conversation with the chatbot, get sorted into your Hogwarts house, test your knowledge with trivia, and explore the magical features!
