@@ -1,4 +1,4 @@
-**SpellBinder - Your Magical Companion**
+### **SpellBinder - Your Magical Companion**
 
 **SpellBinder** is an interactive chatbot that brings the magic of the Wizarding World to your fingertips. Built with Python and Streamlit, this chatbot offers a unique and engaging experience where you can:
 
