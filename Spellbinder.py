@@ -1,4 +1,4 @@
-import random
+limport random
 import difflib
 import string
 import csv
@@ -28,10 +28,10 @@ def load_csv(filename, encoding='utf-8'):
     return rows
 
 # Load data from CSV files
-spell_commands = load_csv('C:\\Users\\acer\\OneDrive\\Desktop\\SpellBinder\\spell_commands.csv')
-trivia_questions = load_csv('C:\\Users\\acer\\OneDrive\\Desktop\\SpellBinder\\trivia_questions.csv')
-magical_responses = load_csv('C:\\Users\\acer\\OneDrive\\Desktop\\SpellBinder\\magical_responses.csv')
-riddles = load_csv('C:\\Users\\acer\\OneDrive\\Desktop\\SpellBinder\\riddles.csv')
+spell_commands = load_csv('spell_commands.csv')
+trivia_questions = load_csv('trivia_questions.csv')
+magical_responses = load_csv('magical_responses.csv')
+riddles = load_csv('riddles.csv')
 
 # Define the necessary functions
 def normalize_input(user_input):
