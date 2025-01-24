@@ -12,7 +12,6 @@ Confundo trivia,fetch_trivia,Requests trivia with confusion intent.
 Lumos knowledge,fetch_knowledge,Request for general knowledge.
 Accio history,fetch_history,Fetches a historical fact.
 Protego explanation,fetch_explanation,Provides an explanation for a topic.
-Stupefy question,fetch_question,Fetches a magical quiz question.
-Rictusempra cheer,cheer_user,Sends a cheerful message.\
+Rictusempra cheer,cheer_user,Sends a cheerful message.
 Engorgio details,fetch_details,Fetches detailed information.
 Accio movie,fetch_movie,Fetches a random magical movie.
